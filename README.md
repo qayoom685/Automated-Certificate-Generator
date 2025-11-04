@@ -1,1 +1,3 @@
 # Automated-Certificate-Generator
+
+Automated Certificate Generator is a Node.js-based system that automatically generates internship completion certificates in PDF format and sends them via email to interns upon completion. Built with Express.js, pdf-lib, and Nodemailer, the project streamlines the certification process by eliminating manual effort and ensuring instant delivery of personalized certificates.
